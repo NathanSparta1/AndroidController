@@ -1,0 +1,14 @@
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\bin\Debug\netstandard2.0\NathanAndroipApp.deps.json
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\bin\Debug\netstandard2.0\NathanAndroipApp.dll
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\bin\Debug\netstandard2.0\ref\NathanAndroipApp.dll
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\bin\Debug\netstandard2.0\NathanAndroipApp.pdb
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\obj\Debug\netstandard2.0\NathanAndroipApp.csprojAssemblyReference.cache
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\obj\Debug\netstandard2.0\NathanAndroipApp.AssemblyInfoInputs.cache
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\obj\Debug\netstandard2.0\NathanAndroipApp.AssemblyInfo.cs
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\obj\Debug\netstandard2.0\NathanAndroipApp.dll
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\obj\Debug\netstandard2.0\ref\NathanAndroipApp.dll
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\obj\Debug\netstandard2.0\NathanAndroipApp.pdb
+C:\Users\NIngleton\engineering45\android\NathanAndroipApp\NathanAndroipApp\NathanAndroipApp\obj\Debug\netstandard2.0\XamlC.stamp
